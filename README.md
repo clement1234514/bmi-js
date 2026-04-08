@@ -45,7 +45,7 @@ Anschließend werden angezeigt:
 
 ##  Online-Demo (GitHub Pages)
 
- *(ajoute ton lien ici après activation de GitHub Pages)*
+ http://clement1234514.me/bmi-js/
 
 ---
 
